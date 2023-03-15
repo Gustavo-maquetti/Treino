@@ -1,0 +1,80 @@
+html{
+  background-color: rgb(36, 43, 49);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+ img{
+    width: 50px;
+    height: 50px;
+    margin-left: 180px; 
+ }
+
+h1{
+    color: aliceblue;
+    margin-left: 49px;
+    margin
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+}
+
+div{
+    background-color: black;
+    padding: 20px 90px 80px 90px;
+    border-radius: 20px;
+    top: 80px;
+    width: 400px;
+    height: 450px; 
+}
+  
+
+
+button{   
+    width: 300px;
+    height: 40px;
+    border-radius: 40px;
+    margin-left: 45px;    
+}
+
+input{
+    font-size: 16px;
+    text-align: center;
+    background-color: black;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 45px;
+}
+
+.avancar{
+    color: black;
+    background-color: aliceblue;
+    width: 300px;
+    height: 40;
+    border-radius: 40px; 
+}
+
+.senha{
+    background-color: black;
+    color: aliceblue;
+    width: 300px;
+    height: 40px;
+    border-radius: 40px;
+    border: solid 1px rgb(0, 110, 255);  
+}
+
+.p{
+    color: rgb(36, 130, 252);
+}
+
+.nao{
+    text-align: left;
+    margin-left: 50px;
+    color: gray;
+}
