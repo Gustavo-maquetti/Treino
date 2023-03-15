@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tela de login</title>
+</head>
+<body>
+    <div id="scrollbar">
+        <a href="#">
+        <img src="tw.jfif" alt="teitter">
+        </a>
+        <h1>Entrar no Twitter</h1>
+        <button>Fazer login com o Google</button>
+        <br> <br>
+        <button>Entrar com Apple</button>
+        <p>Ou</p>
+        <input type="text" placeholder="Celular, e-mail ou nome de usuarário">
+        <br><br>
+        <button class="avancar"><strong>Avançar</strong></button>
+        <br><br>
+        <button class="senha">Esqueceu sua senha? </button>
+        <br><br>
+       <p class="nao">Não tem uma conta?<strong class="p">Inscreva-se</strong></p>
+    </div>
+</body>
+</html>
